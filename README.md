@@ -1,5 +1,5 @@
 # Genetic-algorithm
-Genetic algorithm, traveling salesman problem.
+Genetic Algorithm for the traveling salesman problem, for "Programming Paradigms" course in University. 
 
 INFORMACION SOBRE COMO CORRER PROGRAMA:
 
